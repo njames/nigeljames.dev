@@ -1,0 +1,5 @@
+site_name: Nigel James - Developing Developers
+site_url: https://example.com/
+nav:
+    - Blog: blog/index.md
+    - About: about.md
